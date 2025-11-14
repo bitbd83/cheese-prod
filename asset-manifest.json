@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.76688694.chunk.css",
-    "main.js": "./static/js/main.6a46c733.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.ed3c5f8b.js",
+    "main.js": "./static/js/main.35a12aed.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.f9ab1721.js",
     "static/css/2.5aa401b8.chunk.css": "./static/css/2.5aa401b8.chunk.css",
-    "static/js/2.5aee589c.chunk.js": "./static/js/2.5aee589c.chunk.js",
-    "static/js/3.54b754ab.chunk.js": "./static/js/3.54b754ab.chunk.js",
-    "static/js/4.c6412ca3.chunk.js": "./static/js/4.c6412ca3.chunk.js",
-    "static/js/5.66f8e8ae.chunk.js": "./static/js/5.66f8e8ae.chunk.js",
-    "static/js/6.19cd8a01.chunk.js": "./static/js/6.19cd8a01.chunk.js",
+    "static/js/2.ae23179a.chunk.js": "./static/js/2.ae23179a.chunk.js",
+    "static/js/3.4318134b.chunk.js": "./static/js/3.4318134b.chunk.js",
+    "static/js/4.9ef5e1dc.chunk.js": "./static/js/4.9ef5e1dc.chunk.js",
+    "static/js/5.bf8172ed.chunk.js": "./static/js/5.bf8172ed.chunk.js",
+    "static/js/6.2f72163b.chunk.js": "./static/js/6.2f72163b.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.0923e34d72b7d72e736b5221fe03fe41.js": "./precache-manifest.0923e34d72b7d72e736b5221fe03fe41.js",
+    "precache-manifest.0a49b1e3f088e97714cd33c94c4df67a.js": "./precache-manifest.0a49b1e3f088e97714cd33c94c4df67a.js",
     "service-worker.js": "./service-worker.js",
-    "static/js/2.5aee589c.chunk.js.LICENSE.txt": "./static/js/2.5aee589c.chunk.js.LICENSE.txt",
-    "static/js/3.54b754ab.chunk.js.LICENSE.txt": "./static/js/3.54b754ab.chunk.js.LICENSE.txt",
+    "static/js/2.ae23179a.chunk.js.LICENSE.txt": "./static/js/2.ae23179a.chunk.js.LICENSE.txt",
+    "static/js/3.4318134b.chunk.js.LICENSE.txt": "./static/js/3.4318134b.chunk.js.LICENSE.txt",
     "static/media/inter.css": "./static/media/Inter.var.8dd26c3d.woff2",
     "static/media/KIWI.png": "./static/media/KIWI.d578b36f.png",
     "static/media/arrow-down-blue.svg": "./static/media/arrow-down-blue.70ef93bb.svg",
@@ -52,10 +51,9 @@
     "static/media/x.svg": "./static/media/x.93df88f8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed3c5f8b.js",
+    "static/js/runtime-main.f9ab1721.js",
     "static/css/2.5aa401b8.chunk.css",
-    "static/js/2.5aee589c.chunk.js",
-    "static/css/main.76688694.chunk.css",
-    "static/js/main.6a46c733.chunk.js"
+    "static/js/2.ae23179a.chunk.js",
+    "static/js/main.35a12aed.chunk.js"
   ]
 }
