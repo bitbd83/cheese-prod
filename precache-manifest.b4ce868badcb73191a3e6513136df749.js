@@ -1,47 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dca1a44ffefe6229d6eb9dec6a510e5a",
+    "revision": "86d58e75235fbeb9c6655265bf5306b0",
     "url": "./index.html"
   },
   {
-    "revision": "4906f5fe1fad31a3a39c",
+    "revision": "16567acd0e3d8826bdbe",
     "url": "./static/css/2.5aa401b8.chunk.css"
   },
   {
-    "revision": "4906f5fe1fad31a3a39c",
-    "url": "./static/js/2.3e19c3ba.chunk.js"
+    "revision": "16567acd0e3d8826bdbe",
+    "url": "./static/js/2.96c90095.chunk.js"
   },
   {
-    "revision": "bcf00aa66326d896ea02c37bf9532749",
-    "url": "./static/js/2.3e19c3ba.chunk.js.LICENSE.txt"
+    "revision": "0c07caffb8baa5e72c5e60618832bc72",
+    "url": "./static/js/2.96c90095.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f8dd087f7ffcd833b904",
-    "url": "./static/js/3.2a0fe61f.chunk.js"
+    "revision": "03a62ab9ca4c733aa69c",
+    "url": "./static/js/main.42a6e853.chunk.js"
   },
   {
-    "revision": "3ac4d6095dd654f922b2153411311b5b",
-    "url": "./static/js/3.2a0fe61f.chunk.js.LICENSE.txt"
-  },
-  {
-    "revision": "a109d23ee1b7b9547836",
-    "url": "./static/js/4.ef3b6f77.chunk.js"
-  },
-  {
-    "revision": "a168de04ad4719fccb87",
-    "url": "./static/js/5.51726182.chunk.js"
-  },
-  {
-    "revision": "6f3fc9ed00b3c1687bfa",
-    "url": "./static/js/6.b3ac46ff.chunk.js"
-  },
-  {
-    "revision": "90caded68f4aa35afba9",
-    "url": "./static/js/main.5ad895a0.chunk.js"
-  },
-  {
-    "revision": "5be861565d63eb95b4aa",
-    "url": "./static/js/runtime-main.b20b24ba.js"
+    "revision": "65274a4701365be75d63",
+    "url": "./static/js/runtime-main.eb02c345.js"
   },
   {
     "revision": "661569afe57a38e1529a775a465da20b",
@@ -270,6 +250,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "67150c0c7a82a75cb9cdd5f298813b08",
     "url": "./static/media/email.67150c0c.svg"
+  },
+  {
+    "revision": "96dbea584aea6547983dac9fef1877d0",
+    "url": "./static/media/fantomWallet.96dbea58.png"
   },
   {
     "revision": "10c6fe624f2c3a9b859bf6f9a30fcc99",
