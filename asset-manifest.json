@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "./static/js/main.ebd56680.chunk.js",
+    "main.js": "./static/js/main.15470679.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.eb02c345.js",
     "static/css/2.5aa401b8.chunk.css": "./static/css/2.5aa401b8.chunk.css",
-    "static/js/2.f4cb5cf1.chunk.js": "./static/js/2.f4cb5cf1.chunk.js",
+    "static/js/2.3b65a36b.chunk.js": "./static/js/2.3b65a36b.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.d2e1ec16114367ce2a8332c91ae2cb9c.js": "./precache-manifest.d2e1ec16114367ce2a8332c91ae2cb9c.js",
+    "precache-manifest.1147b78441a538409460be2375a98f8d.js": "./precache-manifest.1147b78441a538409460be2375a98f8d.js",
     "service-worker.js": "./service-worker.js",
-    "static/js/2.f4cb5cf1.chunk.js.LICENSE.txt": "./static/js/2.f4cb5cf1.chunk.js.LICENSE.txt",
+    "static/js/2.3b65a36b.chunk.js.LICENSE.txt": "./static/js/2.3b65a36b.chunk.js.LICENSE.txt",
     "static/media/inter.css": "./static/media/Inter.var.8dd26c3d.woff2",
     "static/media/KIWI.png": "./static/media/KIWI.d578b36f.png",
     "static/media/arrow-down-blue.svg": "./static/media/arrow-down-blue.70ef93bb.svg",
@@ -49,7 +49,7 @@
   "entrypoints": [
     "static/js/runtime-main.eb02c345.js",
     "static/css/2.5aa401b8.chunk.css",
-    "static/js/2.f4cb5cf1.chunk.js",
-    "static/js/main.ebd56680.chunk.js"
+    "static/js/2.3b65a36b.chunk.js",
+    "static/js/main.15470679.chunk.js"
   ]
 }
