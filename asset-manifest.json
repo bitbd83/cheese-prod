@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.js": "./static/js/main.15470679.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.eb02c345.js",
+    "main.js": "./static/js/main.f2747af0.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.69d5a691.js",
     "static/css/2.5aa401b8.chunk.css": "./static/css/2.5aa401b8.chunk.css",
-    "static/js/2.3b65a36b.chunk.js": "./static/js/2.3b65a36b.chunk.js",
+    "static/js/2.246c0705.chunk.js": "./static/js/2.246c0705.chunk.js",
+    "static/js/3.fe6c2e82.chunk.js": "./static/js/3.fe6c2e82.chunk.js",
+    "static/js/4.9c1fbacf.chunk.js": "./static/js/4.9c1fbacf.chunk.js",
+    "static/js/5.66f8e8ae.chunk.js": "./static/js/5.66f8e8ae.chunk.js",
+    "static/js/6.19cd8a01.chunk.js": "./static/js/6.19cd8a01.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.1147b78441a538409460be2375a98f8d.js": "./precache-manifest.1147b78441a538409460be2375a98f8d.js",
+    "precache-manifest.4154813b1f68c3a41fcca1a23d2f08fc.js": "./precache-manifest.4154813b1f68c3a41fcca1a23d2f08fc.js",
     "service-worker.js": "./service-worker.js",
-    "static/js/2.3b65a36b.chunk.js.LICENSE.txt": "./static/js/2.3b65a36b.chunk.js.LICENSE.txt",
+    "static/js/2.246c0705.chunk.js.LICENSE.txt": "./static/js/2.246c0705.chunk.js.LICENSE.txt",
+    "static/js/3.fe6c2e82.chunk.js.LICENSE.txt": "./static/js/3.fe6c2e82.chunk.js.LICENSE.txt",
     "static/media/inter.css": "./static/media/Inter.var.8dd26c3d.woff2",
     "static/media/KIWI.png": "./static/media/KIWI.d578b36f.png",
     "static/media/arrow-down-blue.svg": "./static/media/arrow-down-blue.70ef93bb.svg",
@@ -27,7 +32,6 @@
     "static/media/dropdown.svg": "./static/media/dropdown.32b15d66.svg",
     "static/media/dropup-blue.svg": "./static/media/dropup-blue.f545db69.svg",
     "static/media/email.svg": "./static/media/email.67150c0c.svg",
-    "static/media/fantomWallet.png": "./static/media/fantomWallet.96dbea58.png",
     "static/media/github.svg": "./static/media/github.10c6fe62.svg",
     "static/media/ipfs.svg": "./static/media/ipfs.8cd2ed47.svg",
     "static/media/lbank.png": "./static/media/lbank.ee1f53d4.png",
@@ -47,9 +51,9 @@
     "static/media/x.svg": "./static/media/x.93df88f8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb02c345.js",
+    "static/js/runtime-main.69d5a691.js",
     "static/css/2.5aa401b8.chunk.css",
-    "static/js/2.3b65a36b.chunk.js",
-    "static/js/main.15470679.chunk.js"
+    "static/js/2.246c0705.chunk.js",
+    "static/js/main.f2747af0.chunk.js"
   ]
 }
